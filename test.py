@@ -1,5 +1,3 @@
-import numpy as np
-
 with open('input.txt') as f:
     l=f.readlines()
     
@@ -18,3 +16,5 @@ if out=='':
     print(m)
 else:
     print(out)
+
+    
